@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nazar--kobryn)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nazarr.kobryn@gmail.com)
 
-<br />
+
 ![Nazar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nazar-kob&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nazar-kob&layout=compact&theme=radical)
 
