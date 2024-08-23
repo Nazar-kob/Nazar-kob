@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Nazar Kobryn
 
-##***🌐 Full-Stack Developer***  
+*🌐 Full-Stack Developer*  
 **📍 Location:** Toronto, ON, Canada  
 <br />
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nazar--kobryn)
