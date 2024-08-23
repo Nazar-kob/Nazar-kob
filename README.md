@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Nazar Kobryn | 🌐 Full-Stack Developer
+## 👋 Hi there, I'm Nazar Kobryn & I'm Full-Stack Developer 🌐
 
 **📍 Location:** Toronto, ON, Canada  
 <br />
