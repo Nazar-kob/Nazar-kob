@@ -2,8 +2,8 @@
 
 **🌐 Full-Stack Developer**  
 **📍 Location:** Toronto, ON, Canada  
-**🔗 LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nazar--kobryn)  
-**📧 Email:** [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nazarr.kobryn@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nazar--kobryn)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nazarr.kobryn@gmail.com)
 
 With 5 years of hands-on experience, I specialize in designing, developing, deploying, and maintaining large-scale products that prioritize availability, performance, and security. As a versatile software engineer, I enthusiastically tackle new challenges across the Full-Stack.
 
