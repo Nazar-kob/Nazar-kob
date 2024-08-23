@@ -8,7 +8,7 @@
 <br />
 <div align="center">
 ### 📊 GitHub Stats
-![Nazar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nazar-kob&show_icons=true&theme=radical)
+![Nazar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nazar-kob)
 
 ### 🧩 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nazar-kob&layout=compact&theme=radical)
